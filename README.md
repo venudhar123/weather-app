@@ -11,3 +11,6 @@ Features:
 .Responsive and user-friendly interface.
 
 .Fetches data from a weather API using JavaScript (Fetch API/AJAX).
+
+
+![image alt](https://github.com/venudhar123/weather-app/blob/d68be43316a54b959deaca626daae7befc1cf27d/demo%20pic.jpg)
