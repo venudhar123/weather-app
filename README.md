@@ -1,3 +1,5 @@
+Weather App
+
 A simple and interactive Weather App built using HTML, CSS, and JavaScript that fetches real-time weather data from an API and displays temperature, humidity, and weather conditions.
 
 Features:
